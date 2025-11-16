@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+    <div class="card">
+        <div class="technology">
+            <div class="tech-container">
+
+                <h2>Reliable, Effecient delievery</h2>
+                <h1>Powered by Technology</h1>
+                <p>our artificial intelligence powered tool use millions of project data <br>
+                    points to ensure that your project is successful
+                </p>
+
+            </div>
+        </div>
+    </div>
+    <div class="contain">
+        <header>
+            <div class="card-border-blue">
+                <h2>supervisor</h2>
+                <p>monitors activity to identify projects readblock.</p>
+                <h3><i class="fa fa-search" aria-hidden="true"></i></h3>
+
+            </div>
+        </header>
+        <div class="cont">
+            <nav>
+                <div class="card-border-red">
+                    <h2>Team builder</h2>
+                    <p>scans our talent network to create the optimal team for your project</p>
+                    <h4><i class="fa fa-calendar" aria-hidden="true"></i></h4>
+                </div>
+            </nav>
+            <main>
+                <div class="card-border-yellow">
+
+                    <h2>Karma</h2>
+                    <p>regular events evaluate our talent to ensure quality</p>
+                    <h5><i class="fa fa-lightbulb-o" aria-hidden="true"></i></h5>
+
+                </div>
+            </main>
+        </div>
+        <aside>
+
+            <div class="card-border-cyan">
+                <h2>Calculator</h2>
+
+                <p>use data from past project to provide better delievery estimate </p>
+                <h6><i class="fa fa-calculator" aria-hidden="true"></i></h6>
+        </aside>
+    </div>
+    </div>
+    </div>
+
+    </div>
+
+</body>
+
+</html>
